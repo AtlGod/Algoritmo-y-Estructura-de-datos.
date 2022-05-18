@@ -2,9 +2,10 @@
 #include <stdlib.h>
 
 //
-// Contreras Ramírez Angel - ARCYNTRAR - 29/04/22
+
+//29/04/22
 //
-// Cola Círcular
+// Cola CÃ­rcular
 //
 
 // ------------------------------------
