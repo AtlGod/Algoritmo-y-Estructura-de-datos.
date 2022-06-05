@@ -1,3 +1,4 @@
+// Cardoso Osorio Atl Yosafat.
 //Proyecto colas -Algoritm rohn Robins
 //Proyecto de listas una agenda
 #include <stdio.h>

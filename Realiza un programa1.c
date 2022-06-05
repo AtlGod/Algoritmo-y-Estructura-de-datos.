@@ -1,3 +1,5 @@
+// Cardoso Osorio Atl Yosafat.
+
 //meter/encontrar funcion eliminar
 /*1.- funcion meter igual a los anteriores
 2.-funcion encontrar
